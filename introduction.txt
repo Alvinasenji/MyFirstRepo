@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello, my name is Alvin Asenji. I am currently embarking on an exciting learning journey with the SE 102: Foundations of Linux and Version Control course. This course is designed to equip me with essential skills in Linux command-line operations, file management, task automation, and secure process management within a Linux environment.
+
+Beyond Linux, I'm also delving into the depths of Git for version control, focusing on repository management, collaborative software project tracking, and maintaining code quality. I'm eager to gain hands-on experience in navigating Linux command-line interfaces, understanding file permissions, and utilizing Git and GitHub for effective version history management and collaborative project work.
