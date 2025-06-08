@@ -1,0 +1,2 @@
+
+In SE 102, I've learned the fundamental importance of version control with Git. Understanding how to track changes, create commits, and manage repositories is crucial for collaborative development and ensuring project integrity. Concepts like branching for isolated work and pull requests for structured code review have highlighted how Git and GitHub streamline teamwork and maintain project quality. I'm excited to apply these skills to manage my projects more efficiently and collaborate effectively with others.
