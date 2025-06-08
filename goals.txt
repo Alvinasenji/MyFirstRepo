@@ -1,0 +1,6 @@
+My Personal and Academic Goals for Next Year
+
+- Goal 1: Learn more about Linux shell scripting.
+- Goal 2: Master Git and GitHub workflows.
+- Goal 3: Complete all SE 102 assignments successfully.
+- Goal 4: Explore a new programming language.
