@@ -45,3 +45,6 @@ Practical Processes and signals: 12.5%
 End of Course Assessment (10% of total grade): An auto-graded MCQ test at the end of the course.
 Live Sessions
 Each week, there will be a 2-hour live session led by the course instructor, Dr. Ehoneah Obed, to clarify concepts and answer questions. Details on time and joining links will be communicated via email and eHub announcements.
+
+## Names of contributors
+- Alvin Asenji
